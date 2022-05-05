@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="input_city">Введите название города и страны</string>
+    <string name="check_the_weather">ПОСМОТРЕТЬ ПОГОДУ</string>
+    <string name="example_city_name">Например: \"Минск, Беларусь\"</string>
+    <string name="textViewTempFeels">Чувствуется как %d °C</string>
+    <string name="textViewWind">Ветер: %s м/с, %s</string>
+    <string name="textViewHumidity">Влажность: %s%%</string>
+    <string name="textViewPressure">Давление: %s гПа</string>
+    <string name="North">С</string>
+    <string name="NorthEast">С-В</string>
+    <string name="East">В</string>
+    <string name="SouthEast">Ю-В</string>
+    <string name="South">Ю</string>
+    <string name="SouthWest">Ю-З</string>
+    <string name="West">З</string>
+    <string name="NorthWest">С-З</string>
+    <string name="textViewTemp">%d °C</string>
+    <string name="error_connect">Произошла ошибка подключения! Попробуйте снова.</string>
+</resources>

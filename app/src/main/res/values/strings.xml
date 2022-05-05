@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="input_city">Enter the name of the city and country</string>
+    <string name="check_the_weather">CHECK THE WEATHER</string>
+    <string name="example_city_name">Example: \"Minsk, BY\"</string>
+    <string name="textViewTemp">%d °C</string>
+    <string name="textViewTempFeels">Feels like %d °C</string>
+    <string name="textViewWind">Wind: %s m/s, %s</string>
+    <string name="textViewHumidity">Humidity: %s%%</string>
+    <string name="textViewPressure">Pressure: %s hPa</string>
+    <string name="North">N</string>
+    <string name="NorthEast">NE</string>
+    <string name="East">E</string>
+    <string name="SouthEast">SE</string>
+    <string name="South">S</string>
+    <string name="SouthWest">SW</string>
+    <string name="West">W</string>
+    <string name="NorthWest">NW</string>
+    <string name="error_connect">An error with connection has occurred! Try again.</string>
+</resources>
